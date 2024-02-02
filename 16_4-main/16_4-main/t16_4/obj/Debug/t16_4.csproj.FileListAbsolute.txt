@@ -1,0 +1,14 @@
+D:\марков_овчарук\t16_4\bin\Debug\t16_4.exe.config
+D:\марков_овчарук\t16_4\bin\Debug\t16_4.exe
+D:\марков_овчарук\t16_4\bin\Debug\t16_4.pdb
+D:\марков_овчарук\t16_4\obj\Debug\t16_4.csproj.AssemblyReference.cache
+D:\марков_овчарук\t16_4\obj\Debug\t16_4.csproj.CoreCompileInputs.cache
+D:\марков_овчарук\t16_4\obj\Debug\t16_4.exe
+D:\марков_овчарук\t16_4\obj\Debug\t16_4.pdb
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\bin\Debug\t16_4.exe.config
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\bin\Debug\t16_4.exe
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\bin\Debug\t16_4.pdb
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\obj\Debug\t16_4.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\obj\Debug\t16_4.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\obj\Debug\t16_4.exe
+C:\Users\Кирилл\Downloads\16_4-main\16_4-main\t16_4\obj\Debug\t16_4.pdb
